@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/david-legosz-5b9007149/))
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/DavidLegosz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/David_Legosz/)
 
 
 <!--
