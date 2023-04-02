@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/david-legosz/)
 
-https://public.tableau.com/app/profile/david.legosz/viz/SuperstorePerformanceData/Dashboard1
+
+[Check out my Tableau Public Visualization!](https://public.tableau.com/app/profile/david.legosz/viz/SuperstorePerformanceData/Dashboard1)
 
 <!--
 **Dlegosz/Dlegosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
