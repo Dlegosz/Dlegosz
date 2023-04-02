@@ -1,9 +1,12 @@
-### Hi there 👋
+# Welcome to My GitHub Account
+Hi there! My name is David Legosz and I'm an aspiring data analyst with a passion for uncovering insights and telling stories through data. On this GitHub account, you'll find a collection of my personal data analytics projects, visualizations, and tools. 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/david-legosz/)
+
+
 
 
 [Check out my Tableau Public Visualization!](https://public.tableau.com/app/profile/david.legosz/viz/SuperstorePerformanceData/Dashboard1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/david-legosz/)
 
 <!--
 **Dlegosz/Dlegosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
