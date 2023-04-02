@@ -1,5 +1,5 @@
 # Welcome to My GitHub Account
-Hi there! My name is David Legosz and I'm an aspiring data analyst with a passion for uncovering insights and telling stories through data. On this GitHub account, you'll find a collection of my personal data analytics projects, visualizations, and tools. 
+Hi there! My name is David Legosz and I'm an aspiring data analyst with a passion for uncovering insights and telling stories through data. On this GitHub account, you'll find a collection of my personal data analytics projects, visualizations, and tools done out of self-interest for educational and hobby purposes.
 
 
 
